@@ -2,13 +2,14 @@
 
 > _Творчество заразительно. Передай другому!_ – Альберт Эйнштейн.
 
+Проекты для скачивания:
 | Проект | Ссылка |
 | ------ | ------ |
-| Dropbox | Ссылка |
-| GitHub | Ссылка |
-| Google Drive | Ссылка |
-| OneDrive | Ссылка |
-| Medium | Ссылка |
-| Google Analytics | Ссылка |
+| Проект | Ссылка |
+| Проект | Ссылка |
+| Проект | Ссылка |
+| Проект | Ссылка |
+| Проект | Ссылка |
+| Проект | Ссылка |
 
-[![Rick Roll](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://youtu.be/dQw4w9WgXcQ?si=U_ceQ8Q6csbWiJzO)
+[Бесплатное печенье!](https://youtu.be/dQw4w9WgXcQ?si=U_ceQ8Q6csbWiJzO)
