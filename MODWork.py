@@ -9,7 +9,7 @@ def main():
     clear()
     tk.Label(win, text='Отчет Теория Ифнормации', font=('Arial', 20, 'bold')).pack()
     tk.Button(win, text='ТЕОРИЯ ГРАФОВ', command=start_graph).pack()
-    tk.Button(win, text='БИАНРНОЕ ДЕРЕВО (WIP)', command=App).pack()
+    tk.Button(win, text='БИНАНРНОЕ ДЕРЕВО (WIP)', command=App).pack()
     tk.Button(win, text='МЕТОДЫ ШЕННОНА-ФЭНО И ХАФФМЕНА', command=start_metod).pack()
     tk.Button(win, text='АЛГОРИТМЫ LZ77, LZ78 И LZSS', command=selalg).pack()
     tk.Button(win, text='НАЖМИ МЕНЯ!', command=coloring, fg='pink', bg='purple').pack()
@@ -190,10 +190,10 @@ class BinarySearchTree:
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Бнарное дерево поиска")
+        self.title("Бинарное дерево поиска")
         self.geometry("1600x900")
         self.tree = BinarySearchTree()
-        self.label = tk.Label(self, text="Бнарное дерево поиска", font=('Arial', 20, 'bold'))
+        self.label = tk.Label(self, text="Бинарное дерево поиска", font=('Arial', 20, 'bold'))
         self.label.pack()
         self.entry = tk.Entry(self, width=25)
         self.entry.pack()
