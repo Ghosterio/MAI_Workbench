@@ -474,7 +474,7 @@ def decompress(compressed_data):
     return decompressed_string
 
 win = tk.Tk()
-emblem = tk.PhotoImage(file='MAI.png')
+emblem = tk.PhotoImage(file='MAI.png') #Убрать если не нужна эмблема МАИ!
 win.iconphoto(False, emblem)
 win.geometry(f'1600x900')
 win.title('Теория Информации МАИ')
